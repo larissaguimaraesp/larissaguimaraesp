@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou a Larissa! 👋
 
-<!--
-**larissaguimaraesp/larissaguimaraesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu perfil do GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Sobre mim
+
+* 🎓 Estudante de **Engenharia Elétrica** na UFSJ.
+* 🚀 No momento, estou estruturando este espaço e muito animada para compartilhar meus futuros projetos por aqui!
+
+### 📫 Vamos nos conectar?
+
+* **LinkedIn:** [linkedin.com/in/larissa-guimarães-81895025a](https://www.linkedin.com/in/larissa-guimarães-81895025a)
+* **E-mail:** larissaguimaraes0099@gmail.com
+
+---
+---
+
+# Hi, I'm Larissa! 👋
+
+Welcome to my GitHub profile.
+
+---
+
+### ⚡ About me
+
+* 🎓 **Electrical Engineering** student at UFSJ.
+* 🚀 Right now, I'm setting up this space and really excited to share my future projects here!
+
+### 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/larissa-guimarães-81895025a](https://www.linkedin.com/in/larissa-guimarães-81895025a)
+* **E-mail:** larissaguimaraes0099@gmail.com
